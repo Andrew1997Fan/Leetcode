@@ -1,0 +1,1 @@
+計算integer的bit長度
